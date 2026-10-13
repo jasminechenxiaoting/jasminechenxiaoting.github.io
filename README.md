@@ -1,25 +1,16 @@
-# Xiaoting (Jasmine) Chen — personal website
+# Xiaoting (Jasmine) Chen — private website draft
 
-A responsive, accessible academic website prepared for **JCGH1211.github.io**.
+The website is unpublished and its GitHub repository is private. Do not enable GitHub Pages, change visibility, or deploy without explicit user instruction.
 
-## Publish on GitHub Pages
+## Preview and editing
+Open index.html in a browser. The three pages work without a server, installation, or JavaScript.
 
-1. Sign in as `JCGH1211` and create a public repository named `JCGH1211.github.io`.
-2. Upload the contents of this folder to the repository root. Include the PDF alongside the HTML and CSS files.
-3. In repository **Settings → Pages**, select **Deploy from a branch**, branch **main**, folder **/ (root)**, and save.
-4. Once deployment completes, the website will be at https://jcgh1211.github.io/.
+- index.html: introduction and contact links.
+- research.html: three research projects, abstracts, and presentations.
+- resume.html: experience, education, honors, and academic service.
+- style.css: shared responsive design.
+- Chen_Resume.pdf: original downloadable résumé.
 
-Official instructions: https://docs.github.com/en/pages/quickstart
+Design follows the simple layout of https://www.racheljnam.com/ while using only Jasmine’s own content. The circular JC monogram is temporary until a portrait is supplied. No portrait, logos, or biography were copied from the reference.
 
-## Edit
-
-- `index.html`: biography, research summaries, appointments, education, and links.
-- `style.css`: colors, fonts, spacing, mobile layout, and print styles.
-- `Chen_Resume.pdf`: downloadable original résumé.
-- `.nojekyll`: serve the site as plain static files.
-
-No installation, build step, third-party fonts, tracking, or JavaScript is required. Preview by opening `index.html`, or serve this folder with `python3 -m http.server 8765`.
-
-## Content notes
-
-Content is based on the supplied résumé. Research abstracts are condensed summaries; no additional findings have been invented. The title follows the résumé (PhD researcher, expected completion 2028). The November 2026 presentation is marked as scheduled. The original downloadable résumé includes the phone number supplied in its header; the webpage itself lists only professional email. Update time-sensitive appointments, paper status, and presentations as appropriate.
+Research abstracts are condensed from the supplied résumé. The title follows that résumé: PhD researcher, expected completion 2028. The original PDF includes the supplied phone number. Check time-sensitive roles and presentations before publication.
