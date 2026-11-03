@@ -11,6 +11,6 @@ Open index.html in a browser. The three pages work without a server, installatio
 - style.css: shared responsive design.
 - Chen_Resume.pdf: original downloadable résumé.
 
-Design follows the simple layout of https://www.racheljnam.com/ while using only Jasmine’s own content. The circular JC monogram is temporary until a portrait is supplied. No portrait, logos, or biography were copied from the reference.
+The circular JC monogram is temporary until a portrait is supplied. No portrait, logos, or biography were copied from the reference.
 
 Research abstracts are condensed from the supplied résumé. The title follows that résumé: PhD researcher, expected completion 2028. The original PDF includes the supplied phone number. Check time-sensitive roles and presentations before publication.
